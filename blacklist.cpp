@@ -271,7 +271,7 @@ void printHelp(bool printAll)
 {
   cout << "blacklist " << AutoVersion::FULLVERSION_STRING << ", ";
   cout << AutoVersion::STATUS << endl;
-  cout << "Copyright (c) 2015 by Dominic Reich\n" << endl;
+  cout << "Copyright (c) 2015-2019 by Dominic Reich\n" << endl;
   cout << "Usage:  blacklist [options] <ip-address>" << endl;
   if(printAll == true)
   {
